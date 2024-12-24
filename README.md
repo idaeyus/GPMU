@@ -1,6 +1,6 @@
 # The Graphics Processing [Meta] Unit
 
-![GPMU Image](https://cdn.glitch.global/0846f6ac-90cd-4f0b-a9e6-783892332eac/GMPU.gif?v=1735038100567)
+![GPMU Image](https://cdn.glitch.global/0846f6ac-90cd-4f0b-a9e6-783892332eac/GPMU.gif?v=1735039599706)
 
 ## What is GPMU?
 
@@ -9,7 +9,7 @@ GPMUs solve this problem by using AI to simulate AI. We use META's LLAMA 90B (vi
 
 ## How to use a GPMU?
 
-1. Visit [idaeyus.github.io/GPMU](https://idaeyus.github.io/GPMU/)
+1. Visit [The GPMU website](https://idaeyus.github.io/GPMU/)
 2. Input your Groq API key, your model's code, your dataset, and other essential details that are requested.
 3. Input your prompt and click on "Simulate Model."
 4. Receive your simulated model's response with other important metrics like accuracy, along with an analysis of why your model would respond in that way.
