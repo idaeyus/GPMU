@@ -1,6 +1,6 @@
 # The Graphics Processing [Meta] Unit
 
-![GPMU Image](https://cdn.glitch.global/0846f6ac-90cd-4f0b-a9e6-783892332eac/GPMU.gif?v=1735039599706)
+![GPMU Image](https://cdn.glitch.global/0846f6ac-90cd-4f0b-a9e6-783892332eac/GPMU.gif?v=1735061254188)
 
 ## What is GPMU?
 
