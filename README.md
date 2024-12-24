@@ -16,7 +16,7 @@ GPMUs solve this problem by using AI to simulate AI. We use META's LLAMA 90B (vi
 
 ## Important Information
 
-1. <b>Do not trust this completely , this is just a simulation . Your actual model's response may differ from the one simulated on a GPMU.</b>
+1. <b>Do not rely solely on this simulation . Your actual model's response may differ from the one simulated on a GPMU.</b>
 2. Please input the dataset even if it is in the code.
 3. Every time you simulate the model, a new simulation is created, which means that your model's previous simulation response will not affect your new simulation.
 4. Chat history has been removed to prevent it from interfering with the AI's [90B] simulation response.
